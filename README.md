@@ -1,6 +1,12 @@
 
 # Diabetes Deep Dive: Insights & Actionable Health Solutions
 
+![Screenshot 2024-09-17 223706](https://github.com/user-attachments/assets/7a439fdc-74fd-499e-9275-2cbbe49e11f1)
+
+
+![Screenshot 2024-09-17 223740](https://github.com/user-attachments/assets/99a4a86c-8e21-42b5-8c36-91e31090a53d)
+
+
 
 ## Project Objective
 
