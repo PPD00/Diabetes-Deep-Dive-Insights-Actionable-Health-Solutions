@@ -7,6 +7,10 @@
 Analyze diabetic patient data to uncover key insights into demographic trends, health conditions, and risk factors. 
 
 By identifying patterns, the goal is to recommend targeted interventions for improved diabetes management and care.
+## Data Preparation :
+- The dataset was imported into Power BI, where missing values were handled, duplicates removed, and outliers adjusted
+- New columns were created for age groups, BMI categories, and diabetes status using Power Query and DAX.
+- The data was then reviewed and finalized for accurate analysis and visualization.
 ## Tool used :
 - Power BI, DAX, Power Query
 - Excel (data cleaning)
